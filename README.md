@@ -19,7 +19,7 @@ In this paper, we introduce <it>SustainScrum</it>, a customized Scrum process mo
 
 <br><br><br><br>
 
-As part of this repository, we provide the data used in the applicatiom example [(here)](/evaluation), as well as the prototype implementation of the Assesment Tool  [(here)](/tool).
+As part of this repository, we provide the data used in the applicatiom example [(here)](/evaluation), as well as the prototype implementation of the Assesment Tool  [(here)](/prototype).
 
 (Please not that the tool is meant to serve as a proof of concept and is currently under development in an improved version).
 
